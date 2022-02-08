@@ -1,4 +1,6 @@
 This plaintext document outlines our thought process while designing
 this application.
 
+Click on area of the screen to find a t-rex.
+
 

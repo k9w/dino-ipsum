@@ -40,7 +40,9 @@ You can find more of our work at:
 * _Clone the project from your repo to your machine or preferred
   location and cd into its folder._
 
-* _You'll need the Node Package Manager (npm) to build the project. To it up, install [Node JS](https://nodejs.org) for your platform._
+* _No registration or API Key are needed for the [upstream word generator](https://dinoipsum.com)._
+
+* _Install the Node Package Manager (npm) to build the project. To it up, install [Node JS](https://nodejs.org) for your platform._
 
 * _Install webpack and other packages listed above and in package.json
   by typing 'npm install' just one time._
